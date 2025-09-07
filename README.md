@@ -15,8 +15,6 @@ L’applicazione è un **negozio virtuale di occhiali** realizzato in Unity, dov
 - **Unity 6.0** – motore di gioco e interfaccia utente.  
 - **C#** – linguaggio di programmazione.  
 - **Google MediaPipe Unity Plugin v0.16.1** – riconoscimento del volto.  
-- **JSON** – archiviazione dati catalogo e ordini.  
-- **Prefab e UI Toolkit di Unity** – gestione interfaccia e componenti riutilizzabili.
 
 ---
 
